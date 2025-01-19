@@ -1,2 +1,2 @@
-URAIT_EMAIL=you_email@gmail.com
-URAIT_PASSWORD=your_password
+URAIT_EMAIL=workinalena@gmail.com
+URAIT_PASSWORD=Cu60P7
